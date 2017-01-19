@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.0_f0704361787b3dc76ac60ffc345f1d0df775b5ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.0_5037f27752d6156ea13f7fb0e39414ad618dd5e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.0_9d6fc6cfdcac5c125eb19990f57d57e2df3330bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_6d0ca17b7e4d53da9fb250658979eef8502f4b96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b531870783629fc2024275f9107f46d7e0fed85">
+        <dex dex="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9390725e2d95061d83c7e31978cba809d8b6cafc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.0_f792a499de5b6b4b611a6efcde038e5ef170143f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5a9fa554a4c409a28875bcbb82d79a9f14045ffe">
+        <dex dex="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_adcb27ff0e98053ff574a475972f1bb3b82ccd04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.0_811f2e8718fd99fa316a520f7204333381814605/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.0_b3c76e836fc130ecbbbbb4cc3a5d55b6c5567cc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/vikas/Desktop/CourtCounter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.0_ca9eb94fd745d84056882ceb46a18d5b2b51e99d/classes.dex" />
+    </item>
+
+</items>

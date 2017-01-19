@@ -1,0 +1,7 @@
+#Tue Jan 17 20:12:55 IST 2017
+base.0=/home/vikas/Desktop/CourtCounter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9390725e2d95061d83c7e31978cba809d8b6cafc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/vikas/Desktop/CourtCounter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_adcb27ff0e98053ff574a475972f1bb3b82ccd04/classes.dex
+base.1=/home/vikas/Desktop/CourtCounter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_adcb27ff0e98053ff574a475972f1bb3b82ccd04
+file.0=/home/vikas/Desktop/CourtCounter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9390725e2d95061d83c7e31978cba809d8b6cafc/classes.dex
